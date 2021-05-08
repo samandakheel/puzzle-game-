@@ -1,0 +1,10 @@
+C:\Users\Saman\Desktop\puzzle\puzzlegame\puzzlegame\bin\Debug\puzzlegame.exe.config
+C:\Users\Saman\Desktop\puzzle\puzzlegame\puzzlegame\bin\Debug\puzzlegame.exe
+C:\Users\Saman\Desktop\puzzle\puzzlegame\puzzlegame\bin\Debug\puzzlegame.pdb
+C:\Users\Saman\Desktop\puzzle\puzzlegame\puzzlegame\obj\Debug\puzzlegame.csprojAssemblyReference.cache
+C:\Users\Saman\Desktop\puzzle\puzzlegame\puzzlegame\obj\Debug\puzzlegame.Form1.resources
+C:\Users\Saman\Desktop\puzzle\puzzlegame\puzzlegame\obj\Debug\puzzlegame.Properties.Resources.resources
+C:\Users\Saman\Desktop\puzzle\puzzlegame\puzzlegame\obj\Debug\puzzlegame.csproj.GenerateResource.cache
+C:\Users\Saman\Desktop\puzzle\puzzlegame\puzzlegame\obj\Debug\puzzlegame.csproj.CoreCompileInputs.cache
+C:\Users\Saman\Desktop\puzzle\puzzlegame\puzzlegame\obj\Debug\puzzlegame.exe
+C:\Users\Saman\Desktop\puzzle\puzzlegame\puzzlegame\obj\Debug\puzzlegame.pdb
